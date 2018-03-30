@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c0430fb88c8fe124997fbbe4df5f055e
+timeCreated: 1522178750
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hexagonGrid: {fileID: 1369153895689822, guid: 3a8a866bb53c9f64984b5127eb78abfc,
+      type: 2}
+  - bullet: {fileID: 1345395504090486, guid: a3be47cd6fdd0bd4e8da3fdbcb303eaf, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
