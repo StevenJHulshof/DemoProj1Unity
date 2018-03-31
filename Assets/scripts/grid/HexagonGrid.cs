@@ -67,7 +67,6 @@ public class HexagonGrid : MonoBehaviour {
 
 				if (Random.Range (0.0f, 100.0f) < 30.0f && t.GetComponent<TileBehaviour> ().occupation == TileBehaviour.Occupation.Nothing) {
 
-
 					Transform tr = createTransform (trees[Random.Range(0, trees.Length)], new Vector4 (x, y, z, w), tileLayerHeight * w);
 					tr.name = "Tree " + treeNum + " (" + x + ", " + y + ", " + z + ", " + w + ")";
 					t.GetComponent<TileBehaviour> ().occupation = TileBehaviour.Occupation.Tree;
